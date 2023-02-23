@@ -4,8 +4,8 @@
 class Mace < Formula
   desc ""
   homepage "https://github.com/zhanqi/mace"
-  url "https://github.com/jim928/mace/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "e3e25cd84d135d6523281fa4c5775d9c642d320e082e95da10916d9276ba0786"
+  url "https://github.com/jim928/mace/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "561557b4d57c60499d33e4c4f66b65474f773b0a4926353e0085e7e90f05cc4b"
   license "MIT"
 
   # depends_on "cmake" => :build
