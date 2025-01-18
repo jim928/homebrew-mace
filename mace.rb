@@ -1,8 +1,8 @@
 class Mace < Formula
   desc "Your description here"
   homepage "https://github.com/jim928/mace"
-  url "https://github.com/jim928/mace/archive/refs/tags/0.1.142.tar.gz"
-  sha256 "59b8c8862fcdc286aeba92ec68a3bd2480b3db8b4e80a1a5f2f117f7e3e020b3"
+  url "https://github.com/jim928/mace/archive/refs/tags/0.1.143.tar.gz"
+  sha256 "700eea474b95dc449bf3abadeb038267194c68ff11b7a1f032fd931d22ac14fd"
 
   # ... 其他 Formula 配置信息 ...
 
